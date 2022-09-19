@@ -4,7 +4,7 @@ I believe in a personal responsibility to contribute positively to the world's s
 Our World In Data provides a vast archive of global COVID-19 data on their site for free (A goldmine of a resource). After filtering through their site I was disappointed that the health data within the source wasn't covered in any graphic. I decided to download it for myself and see what I could find. Three pieces of data stood out. These were the cardiovascular death rate for each country and region of the world, the smoking percentage of these populations, and the diabetes prevalence. I decided to explore these three metrics and compare them with covid death data to see if there were any insights I could discover about covid death and personal health. 
 
 
-The Final product can be viewed at Tabeau Public [here](https://public.tableau.com/views/CovidDeathsandHeathAcrosstheWorld/CovidDeathsandHealth?:language=en-US&:display_count=n&:origin=viz_share_link) and the SQL querries are nested above. 
+The final product can be viewed at Tabeau Public [here](https://public.tableau.com/views/CovidDeathsandHeathAcrosstheWorld/CovidDeathsandHealth?:language=en-US&:display_count=n&:origin=viz_share_link) and the SQL querries are nested above. 
 
 <img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/COVID-Deaths-and-Health-Across-the-World/images/Screen%20Shot%202022-09-19%20at%209.43.13%20AM.png' width='1000'>
 
