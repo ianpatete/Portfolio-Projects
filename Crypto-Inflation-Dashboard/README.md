@@ -2,9 +2,7 @@ This project is hosted on cloud platforms and updated on a weekly basis. To view
 
 
 
-<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/Crypto-Inflation-Dashboard/images/Screen%20Shot%202022-09-26%20at%201.56.08%20PM.png' width='1000'>
-
-<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/Crypto-Inflation-Dashboard/images/Screen%20Shot%202022-09-26%20at%201.56.29%20PM.png' width='1000'>
+<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/Crypto-Inflation-Dashboard/images/Screen%20Shot%202022-09-26%20at%201.56.08%20PM.png' width='200'><img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/Crypto-Inflation-Dashboard/images/Screen%20Shot%202022-09-26%20at%201.56.29%20PM.png' width='200'>
 
 <img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/Crypto-Inflation-Dashboard/images/Screen%20Shot%202022-09-26%20at%209.53.21%20AM.png' width='1000'>
 
