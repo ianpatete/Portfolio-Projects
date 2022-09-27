@@ -1,4 +1,4 @@
-This project is hosted on cloud platforms and updated on a weekly basis. To view static documents of the project select the two files above. To view the live hosted sources please navigate to the [Tableau Public Dashboard](https://public.tableau.com/app/profile/ian.patete/viz/CryptoEmmisionsDashboard/Dashboard1) and the working [Google Sheet](https://docs.google.com/spreadsheets/d/1Q5B2RS-O3zRHBMSQaXPVrWsegu3yrsxECwC2HTxcd1U/edit#gid=997172495).
+This project is hosted on cloud platforms and updated on a weekly basis. To view static documents of the project select the file and brows the images above. To view the live hosted sources please navigate to the [Tableau Public Dashboard](https://public.tableau.com/app/profile/ian.patete/viz/CryptoEmmisionsDashboard/Dashboard1) and the working [Google Sheet](https://docs.google.com/spreadsheets/d/1Q5B2RS-O3zRHBMSQaXPVrWsegu3yrsxECwC2HTxcd1U/edit#gid=997172495).
 
 
 
