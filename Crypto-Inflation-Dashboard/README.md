@@ -11,12 +11,12 @@ Importing crypto API data has been made easy due to the ecosytme of conectors bu
 The second problem was to draw these datasets into Main datasets that can be saved an exported as 1 CSV. 
 
 
-<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/Crypto-Inflation-Dashboard/images/Screen%20Shot%202022-09-27%20at%208.43.41%20AM.png' width='1000'>
+<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/Crypto-Inflation-Dashboard/images/Screen%20Shot%202022-09-27%20at%208.43.41%20AM.png' width='500'>
 
 
 ={QUERY(btc_metrics!A:G,"SELECT * WHERE B IS NOT NULL",0);QUERY(sheet!A:G,"SELECT * WHERE B IS NOT NULL",0); (this is coninued to encompase all of the required coins)
 
-<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/Crypto-Inflation-Dashboard/images/Screen%20Shot%202022-09-26%20at%209.53.21%20AM.png' width='1000'>
+<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/Crypto-Inflation-Dashboard/images/Screen%20Shot%202022-09-26%20at%209.53.21%20AM.png' width='500'>
 
 
 
