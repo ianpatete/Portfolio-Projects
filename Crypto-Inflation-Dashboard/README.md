@@ -2,11 +2,11 @@ This project is hosted on cloud platforms and updated on a weekly basis. To view
 
 Crypto Assets are hard to understand for most new or experieced recipients. Most do not know that these assets are inflationary and can not visualize what this infation looks like in real market terms. This inpired me to create an dashboard that tracks these metrics for a few of the most relevent crypto assets. 
 
-This dashboard needed to have a few features:
-    -Very low maintence (5 minutes Weekly).
-    -The ability to compare assets.
-    -A visual component for the relationship between price and emmissions. 
-    -Astetically pleasing and simple to understand. 
+        This dashboard needed to have a few features:
+              -Very low maintence (5 minutes Weekly).
+              -The ability to compare assets.
+              -A visual component for the relationship between price and emmissions. 
+              -Astetically pleasing and simple to understand. 
     
 I decided taht Google Sheets fit for this scope of a project. This wouldnt need to contain enough data to warent a database but it did need some room. It also needed to be able to draw API data without the need to built a Python Script. Google Sheets has an "add on" called API Connector that allows users to send an API requests and refresh them all of them with one click. The perfect tool for my application. After coneenting the sheet to time series data, I set up 18 requests. 
 
