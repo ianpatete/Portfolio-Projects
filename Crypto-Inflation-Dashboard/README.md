@@ -1,2 +1,3 @@
 This project is hosted on cloud platforms and updated on a weekly basis. To view static documents of the project select the two files above. To view the live sources please navigate to the [Tableau Public Dashboard](https://public.tableau.com/app/profile/ian.patete/viz/CryptoEmmisionsDashboard/Dashboard1).
 
+ [Tableau Public Dashboard](https://public.tableau.com/app/profile/ian.patete/viz/CryptoEmmisionsDashboard/Dashboard1 [Tableau Public Dashboard](https://public.tableau.com/app/profile/ian.patete/viz/CryptoEmmisionsDashboard/Dashboard1) [Tableau Public Dashboard](https://public.tableau.com/app/profile/ian.patete/viz/CryptoEmmisionsDashboard/Dashboard1))
