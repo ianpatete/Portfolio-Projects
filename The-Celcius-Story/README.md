@@ -3,7 +3,7 @@ Recently, Celsius leaked massive amounts of user data in their bankruptcy filing
 Some people took the data and created questionable products that were spread on social media. These were used to find out about personal losses by some but were also used to bully and publicly shame others. I wanted to look at this data and share it in an ethical way. This ethical aproach included breaking down customers anonymously into "Customer Types". This abstraction accounts for the sum of deposits made to Celsisus. There are 5 groups, starting in the 0-$10k range and ending in Millionaires.
 
 
-<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%2012.44.38%20PM.png' width='1000'>
+<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%2012.44.38%20PM.png' width='500'>
 
 
 Oddly, it wasn't the typical retail investor getting screwed in this tragedy. I'll explain. Let's start by break down 'who' was depositing funds onto Celsius and 'how' much. Although a vast majority of its users deposited less than $100K of value, a majority of assets on the platform were provided by high value customers.
