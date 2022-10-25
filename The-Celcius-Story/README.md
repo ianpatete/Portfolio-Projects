@@ -1,6 +1,8 @@
-Recently, Celsius leaked massive amounts of user data in their bankruptcy filings. What can we learn about this collapse and what it means for the industry going forward? Oddly, it wasn't the average investor getting screwed this time. The results might surprise you: 1/22
+Recently, the crypto lending platform Celsius leaked massive amounts of user data in their bankruptcy filings. Some people took the data and created questionable products that were spread on social media. These were used to find out about personal losses by some but were also used to bully and publicly shame others. I wanted to look at this data and share it in an ethical way. 
 
-Some people took the data and created questionable products that were spread on social media. These were used to find out about personal losses by some but were also used to bully and publicly shame others. I wanted to look at this data and share it in an ethical way. This ethical aproach included breaking down customers anonymously into "Customer Types". This abstraction accounts for the sum of deposits made to Celsisus. There are 5 groups, starting in the 0-$10k range and ending in Millionaires.
+What can we learn about this collapse and what it means for the industry going forward? Oddly, it wasn't the average investor getting screwed this time. The results might surprise you: 
+
+This ethical aproach included breaking down customers anonymously into "Customer Types". This abstraction accounts for the sum of deposits made to Celsisus. There are 5 groups, starting in the 0-$10k range and ending in Millionaires.
 
 
 <img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%2012.44.38%20PM.png' width='500'>
