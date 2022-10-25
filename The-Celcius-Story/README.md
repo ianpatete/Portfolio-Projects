@@ -17,12 +17,12 @@ The timeline of the Celsius collapse can be broken down into a few distinct even
 -May 11, 2022: Rumors began to circulate on Twitter surrounding Celcius' solvency and involvement with the collapsed Terra Luna. Disregarded by the official Celsius account and CEO.
 -June 12, 2022: Celsius freezes all Withdrawals, Swaps, and Transfers due to 'market conditions.
 
-<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%2012.48.48%20PM.png' width='1000'>
+<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%2012.48.48%20PM.png' width='750'>
 
 
 When we track the number of withdrawals, we can clearly see these events playout. Initially (4/12), the customer base remained calm. After the rumours of insolvency (5/12), there was a mass exit. Finally *before* they closed withdrawals (6/12), there was a mass exit.
 
-<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%2012.49.20%20PM.png' width='1000'>
+<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%2012.49.20%20PM.png' width='500'>
 
 
 From a purely transactional perspective, it seemed that all groups were exercising caution. I thought evacuations would be more likely from high value customers. This proved not the case.
