@@ -29,7 +29,7 @@ From a purely transactional perspective, it seemed that all groups were exercisi
 
 The exodus could be broken down into event windows. Both periods tell a similar story. Interestingly, low deposit customers are overrepresented here when compared to overall deposit amounts. 
 
-<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%207.07.55%20PM.png' width='500'>
+<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%207.07.55%20PM.png' width='300'>
 
 When Celcius paused withdrawals, there were a massive amount of funds still trapped on the platform. At first, glace the amount seems to be distributed exactly how we've seen previously. When we look at the percentage of funds withdrawn vs deposited we see the real story. High deposit customers were the worst at escaping! They got hit the hardest by Celsius' withdrawal pause. I'm not trying to cry for millionaires here but these customers are victims too. 
 
