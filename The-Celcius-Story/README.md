@@ -29,17 +29,17 @@ From a purely transactional perspective, it seemed that all groups were exercisi
 
 The exodus could be broken down into event windows. Both periods tell a similar story. Interestingly, low deposit customers are overrepresented here when compared to overall deposit amounts. 
 
-<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%207.07.55%20PM.png' width='1000'>
+<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%207.07.55%20PM.png' width='500'>
 
 When Celcius paused withdrawals, there were a massive amount of funds still trapped on the platform. At first, glace the amount seems to be distributed exactly how we've seen previously. When we look at the percentage of funds withdrawn vs deposited we see the real story. High deposit customers were the worst at escaping! They got hit the hardest by Celsius' withdrawal pause. I'm not trying to cry for millionaires here but these customers are victims too. 
 
-<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%207.08.09%20PM.png' width='1000'>
+<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%207.08.09%20PM.png' width='500'>
 
 One would assume that high deposit individuals would be the most cautious. How could this happen? On side interesting point is in the celsius liquidation numbers. 
 
 Borrowers were adversely effected by liquidations due to Celsius pausing withdrawals (IMO). Why would borrowers use a centralized platform for borrowing against ETH when many DeFi options exist at better rates.
 
-<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%207.08.38%20PM.png' width='1000'>
+<img src='https://github.com/ianpatete/Portfolio-Projects/blob/main/The-Celcius-Story/images/Screen%20Shot%202022-10-21%20at%207.08.38%20PM.png' width='500'>
 
 This leads me to search for a plausible explanation. 
 
